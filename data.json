@@ -1,0 +1,64 @@
+{
+    "results": [{
+        "gender": "female",
+        "name": {
+            "title": "Miss",
+            "first": "Leanne",
+            "last": "Scott"
+        },
+        "location": {
+            "street": {
+                "number": 8507,
+                "name": "22nd Ave"
+            },
+            "city": "Elgin",
+            "state": "Northwest Territories",
+            "country": "Canada",
+            "postcode": "I6I 2U6",
+            "coordinates": {
+                "latitude": "-67.2046",
+                "longitude": "30.1613"
+            },
+            "timezone": {
+                "offset": "+5:45",
+                "description": "Kathmandu"
+            }
+        },
+        "email": "leanne.scott@example.com",
+        "login": {
+            "uuid": "bc4cd046-1080-4654-801f-bd094262e045",
+            "username": "yellowpanda862",
+            "password": "adrienne",
+            "salt": "bGaxwrVb",
+            "md5": "99b67ea90448bd0bdfe91fe78261e9e5",
+            "sha1": "5f87fd7c401a5cdc131d46d50ebc8c6276492ae7",
+            "sha256": "86ce0a346db15f8295e9f48f8520b30d9f564a49ba445e9f5a16a1a030872b3d"
+        },
+        "dob": {
+            "date": "1947-01-14T14:56:10.040Z",
+            "age": 73
+        },
+        "registered": {
+            "date": "2012-03-06T05:53:36.855Z",
+            "age": 8
+        },
+        "phone": "141-803-3677",
+        "cell": "203-997-5974",
+        "id": {
+            "name": "",
+            "value": null
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/28.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/28.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/28.jpg"
+        },
+        "nat": "CA"
+    }],
+    "info": {
+        "seed": "c2d8a65a70034b01",
+        "results": 1,
+        "page": 1,
+        "version": "1.3"
+    }
+}
